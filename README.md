@@ -12,3 +12,4 @@ gustavo.strege159@gmail.com
 
 @muzan2.g
 ![Muzan](https://tenor.com/bJ4CvYvTS3t.gif)
+https://replit.com/@gustavostrege/Barbearia-Alura
